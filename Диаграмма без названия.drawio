@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T10:25:03.922Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="pX4ZqtO8xWPoIkkpTo0w" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T12:25:42.643Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="KvOBp0k70xhEcF2IPXWn" version="20.2.6" type="github">
   <diagram id="Qapn7uXp3IvCwmjQ7_Wd" name="Страница 1">
-    <mxGraphModel dx="1422" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-2" target="AT9QCA_H9HxwxS0uMx9N-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-2" value="Текст, шрифт страницы (проверка)" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-2" value="Текст, шрифт страницы" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-4" value="Блок предзаказа" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -190,16 +190,16 @@
             <mxPoint x="790" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-64" value="Блок footer&#39;a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-64" value="Яндекс движ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-65" value="Блок footer&#39;a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-65" value="Пользовательское соглашение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-66" value="Блок footer&#39;a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-66" value="Обратная связь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-67" value="Блок footer&#39;a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-67" value="Язык" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -241,9 +241,9 @@
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-80" value="*Проект менеджер, прошу внести в Требования к Яндекс самокату в раздел Требования к функциональности блок с дополнительной информацией &quot;Новое поколение самокатов&quot; на который ссылается в п.3 раздел Верхний блок. Дополнить блок с дополнительной информацией требованиями. Спасибо" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
           <mxGeometry x="10" y="1048" width="960" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0.308;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.037;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="AT9QCA_H9HxwxS0uMx9N-80" parent="1" source="AT9QCA_H9HxwxS0uMx9N-23">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;entryX=0.037;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="AT9QCA_H9HxwxS0uMx9N-80" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="1080" as="sourcePoint" />
+            <mxPoint x="460" y="930" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-83" value="Изменение параметров счетчика на одну секунду по истечении одной секунды" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
@@ -260,19 +260,19 @@
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-88" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="150" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-89" value="Только буквы русского и английского алфавитов. Длина не менее 2 и не более 25 символов. Если пользователь не соблюдает любое из требований, рамка поля подсвечивается красным, а под ней появляется текст ошибки: «Некорректный ввод»." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-89" value="Только буквы русского и английского алфавитов. Длина не менее 2 и не более 25 символов. Если пользователь не соблюдает любое из требований, рамка поля подсвечивается красным, а под ней появляется текст ошибки: «Некорректный ввод». &lt;font color=&quot;#ff0000&quot;&gt;Наличие&amp;nbsp;плейсхолдера.&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="220" width="570" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-90" value="Только буквы русского и английского алфавитов. Длина не менее 2 и не более 25 символов. Если пользователь не соблюдает любое из требований, рамка поля подсвечивается красным, а под ней появляется текст ошибки: «Некорректный ввод»." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-90" value="Только буквы русского и английского алфавитов. Длина не менее 2 и не более 25 символов. Если пользователь не соблюдает любое из требований, рамка поля подсвечивается красным, а под ней появляется текст ошибки: «Некорректный ввод».&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Наличие&amp;nbsp;плейсхолдера.&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="310" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-91" value="Только буквы русского и английского алфавитов. Длина не менее 2 и не более 25 символов. Если пользователь не соблюдает любое из требований, рамка поля подсвечивается красным, а под ней появляется текст ошибки: «Некорректный ввод»." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-91" value="Только буквы русского и английского алфавитов. Длина не менее 2 и не более 25 символов. Если пользователь не соблюдает любое из требований, рамка поля подсвечивается красным, а под ней появляется текст ошибки: «Некорректный ввод».&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Наличие&amp;nbsp;плейсхолдера.&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="380" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-92" value="Только буквы английского алфавита, цифры, тире, точка, @. Длина не менее 5 и не более 50 символов. " style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-92" value="Только буквы английского алфавита, цифры, тире, точка, @. Длина не менее 5 и не более 50 символов.&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Наличие&amp;nbsp;плейсхолдера.&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="450" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-93" value="Только цифры и знак +. Длина не менее 10 и не более 12 символов. Ввод символов начинается в скобках после &lt;span data-reactroot=&quot;&quot; class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;1&quot; style=&quot;font-family:&amp;quot;SFMono-Regular&amp;quot;, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,0.15);color:#EB5757;border-radius:3px;font-size:85%;padding:0.2em 0.4em&quot;&gt;+7&lt;/span&gt;." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-93" value="Только цифры и знак +. Длина не менее 10 и не более 12 символов. Ввод символов начинается в скобках после &lt;span data-reactroot=&quot;&quot; class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;1&quot; style=&quot;font-family:&amp;quot;SFMono-Regular&amp;quot;, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,0.15);color:#EB5757;border-radius:3px;font-size:85%;padding:0.2em 0.4em&quot;&gt;+7&lt;/span&gt;.&amp;nbsp;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Наличие&amp;nbsp;плейсхолдера.&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="525" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -335,6 +335,11 @@
             <mxPoint x="990" y="109.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#33001A;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-110" value="Информация о количестве подписавшихся пользователей берётся с сервера в момент загрузки страницы и обновляется раз в 1-3 секунды." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="660" width="400" height="60" as="geometry" />
         </mxCell>
@@ -347,11 +352,53 @@
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-112" value="&lt;font color=&quot;#000000&quot;&gt;*Проект менеджер, прошу&amp;nbsp; дополнить п.2 Блока с формой предзаказа условием, что при вводе всех валидных данных в поле предзаказа счетчик увеличивается на одно значение. Спасибо&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="10" y="1078" width="1120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-113" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontColor=#FF0000;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-103">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-113" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontColor=#FF0000;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" target="AT9QCA_H9HxwxS0uMx9N-112" parent="1" source="AT9QCA_H9HxwxS0uMx9N-103">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1050" y="1060" as="sourcePoint" />
             <mxPoint x="1110" y="1080" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-119" value="&lt;font color=&quot;#33001a&quot;&gt;Макет Блока предзаказа включает в полях ввода плейсхолдер. Прошу дополнить&amp;nbsp; Требования к промо странице Яндекс самокату&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="14" y="1108" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-123" value="&lt;font color=&quot;#ff0000&quot;&gt;Изменение языка страницы с RU на EN&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="740" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="769.5" as="sourcePoint" />
+            <mxPoint x="990" y="769.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-125" value="Ссылка на почтовый сервис с заполненным полем - отправить : *электронный адрес тех. поддержки Яндекс самокат" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="810" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="839.5" as="sourcePoint" />
+            <mxPoint x="990" y="839.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-127" value="Ссылка на скачивание Пользовательского соглашения" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="890" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="919.5" as="sourcePoint" />
+            <mxPoint x="990" y="919.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-129" value="Ссылка на ресурс Яндекс движ" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="960" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="989.5" as="sourcePoint" />
+            <mxPoint x="990" y="989.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-131" value="&lt;font color=&quot;#33001a&quot;&gt;Прошу изменить информацию к требованиям промо страницы Яндекс самокат в части блока footer&#39;a, кнопка Язык. Данная кнопка позволяет менять язык страницы, а не ведет на другие&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="14" y="1138" width="1090" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
