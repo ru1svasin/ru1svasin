@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T07:28:01.931Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="VW2wDLFVGFy93Q1kMIGd" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T07:54:55.458Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="Crp9ZBx-lJs1Zjaafze5" version="20.2.6" type="github">
   <diagram id="Qapn7uXp3IvCwmjQ7_Wd" name="Страница 1">
-    <mxGraphModel dx="1422" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="610" y="10" width="370" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-58" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="760" y="10" width="220" height="1000" as="geometry" />
+          <mxGeometry x="750" y="10" width="230" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-1" target="AT9QCA_H9HxwxS0uMx9N-2">
           <mxGeometry relative="1" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-2" target="AT9QCA_H9HxwxS0uMx9N-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-2" value="Текст, шрифт страницы (проверка)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-2" value="Текст, шрифт страницы (проверка)" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-4" value="Блок предзаказа" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -69,7 +69,10 @@
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-16" value="Кнопка предзаказ" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-19" value="Обратный отсчет" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-19" target="AT9QCA_H9HxwxS0uMx9N-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-19" value="Счетчик: обратный отсчет до релиза" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -239,6 +242,54 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="800" as="sourcePoint" />
             <mxPoint x="570" y="753" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-80" value="*Проект менеджер, прошу внести в Требования к Яндекс самокату в раздел Требования к функциональности блок с дополнительной информацией &quot;Новое поколение самокатов&quot; на который ссылается в п.3 раздел Верхний блок. Дополнить блок с дополнительной информацией требованиями. Спасибо" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="-540" y="1048" width="1740" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0.308;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.037;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="AT9QCA_H9HxwxS0uMx9N-80" parent="1" source="AT9QCA_H9HxwxS0uMx9N-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="1080" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-83" value="Изменение параметров счетчика на одну секунду по истечении одной секунды" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="10" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="AT9QCA_H9HxwxS0uMx9N-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-86" value="Плавный скрол до блока предзаказа" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="70" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="AT9QCA_H9HxwxS0uMx9N-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-88" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="150" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-89" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="240" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-90" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="310" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-91" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="380" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-92" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="450" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-93" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="525" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="269.5" as="sourcePoint" />
+            <mxPoint x="990" y="269.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
