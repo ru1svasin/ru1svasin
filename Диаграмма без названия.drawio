@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T07:54:55.458Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="Crp9ZBx-lJs1Zjaafze5" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T10:25:03.922Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="pX4ZqtO8xWPoIkkpTo0w" version="20.2.6" type="github">
   <diagram id="Qapn7uXp3IvCwmjQ7_Wd" name="Страница 1">
-    <mxGraphModel dx="2249" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-52" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry y="10" width="970" height="1000" as="geometry" />
+          <mxGeometry y="10" width="970" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-54" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99FFFF;" vertex="1" parent="1">
-          <mxGeometry x="610" y="10" width="370" height="1000" as="geometry" />
+          <mxGeometry x="610" y="10" width="370" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-58" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="750" y="10" width="230" height="1000" as="geometry" />
+          <mxGeometry x="750" y="10" width="230" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-1" target="AT9QCA_H9HxwxS0uMx9N-2">
           <mxGeometry relative="1" as="geometry" />
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-32" value="Счетчик человек" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-33" target="AT9QCA_H9HxwxS0uMx9N-34">
           <mxGeometry relative="1" as="geometry">
@@ -154,7 +154,7 @@
             <mxPoint x="790" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.043;exitY=0.602;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="560" as="sourcePoint" />
             <mxPoint x="760" y="330" as="targetPoint" />
@@ -186,56 +186,50 @@
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AT9QCA_H9HxwxS0uMx9N-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="630" as="sourcePoint" />
+            <mxPoint x="570" y="690" as="sourcePoint" />
             <mxPoint x="790" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-64" value="Блок footer&#39;a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-65" value="Блок footer&#39;a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-66" value="Блок footer&#39;a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-67" value="Блок footer&#39;a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="630" as="sourcePoint" />
+            <mxPoint x="570" y="690" as="sourcePoint" />
             <mxPoint x="570" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.588;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-52">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="760" as="sourcePoint" />
-            <mxPoint x="790" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.588;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570.3600000000001" y="779.5" as="sourcePoint" />
-            <mxPoint x="790" y="779.5" as="targetPoint" />
+            <mxPoint x="570.1800000000002" y="840" as="sourcePoint" />
+            <mxPoint x="789.82" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.588;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570.3600000000001" y="859.5" as="sourcePoint" />
-            <mxPoint x="790" y="859.5" as="targetPoint" />
+            <mxPoint x="570.3600000000001" y="919.5" as="sourcePoint" />
+            <mxPoint x="790" y="919.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.588;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570.1800000000002" y="939.5" as="sourcePoint" />
-            <mxPoint x="789.82" y="939.5" as="targetPoint" />
+            <mxPoint x="570.3600000000001" y="980" as="sourcePoint" />
+            <mxPoint x="790" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="940" as="sourcePoint" />
-            <mxPoint x="570" y="710" as="targetPoint" />
+            <mxPoint x="570" y="980" as="sourcePoint" />
+            <mxPoint x="570" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-77" value="" style="endArrow=none;html=1;rounded=0;exitX=0.992;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-14">
@@ -245,7 +239,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-80" value="*Проект менеджер, прошу внести в Требования к Яндекс самокату в раздел Требования к функциональности блок с дополнительной информацией &quot;Новое поколение самокатов&quot; на который ссылается в п.3 раздел Верхний блок. Дополнить блок с дополнительной информацией требованиями. Спасибо" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="-540" y="1048" width="1740" height="30" as="geometry" />
+          <mxGeometry x="10" y="1048" width="960" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-81" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0.308;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.037;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="AT9QCA_H9HxwxS0uMx9N-80" parent="1" source="AT9QCA_H9HxwxS0uMx9N-23">
           <mxGeometry relative="1" as="geometry">
@@ -255,13 +249,8 @@
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-83" value="Изменение параметров счетчика на одну секунду по истечении одной секунды" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="10" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="AT9QCA_H9HxwxS0uMx9N-86">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="100" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-86" value="Плавный скрол до блока предзаказа" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="990" y="70" width="400" height="60" as="geometry" />
+          <mxGeometry x="990" y="80" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="AT9QCA_H9HxwxS0uMx9N-88">
           <mxGeometry relative="1" as="geometry">
@@ -271,25 +260,97 @@
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-88" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="150" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-89" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="990" y="240" width="400" height="60" as="geometry" />
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-89" value="Только буквы русского и английского алфавитов. Длина не менее 2 и не более 25 символов. Если пользователь не соблюдает любое из требований, рамка поля подсвечивается красным, а под ней появляется текст ошибки: «Некорректный ввод»." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="220" width="570" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-90" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="990" y="310" width="400" height="60" as="geometry" />
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-90" value="Только буквы русского и английского алфавитов. Длина не менее 2 и не более 25 символов. Если пользователь не соблюдает любое из требований, рамка поля подсвечивается красным, а под ней появляется текст ошибки: «Некорректный ввод»." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="310" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-91" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="990" y="380" width="400" height="60" as="geometry" />
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-91" value="Только буквы русского и английского алфавитов. Длина не менее 2 и не более 25 символов. Если пользователь не соблюдает любое из требований, рамка поля подсвечивается красным, а под ней появляется текст ошибки: «Некорректный ввод»." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="380" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-92" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-92" value="Только буквы английского алфавита, цифры, тире, точка, @. Длина не менее 5 и не более 50 символов. " style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="450" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT9QCA_H9HxwxS0uMx9N-93" value="Плавный скрол до блока информации &quot;Подробнее&quot;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-93" value="Только цифры и знак +. Длина не менее 10 и не более 12 символов. Ввод символов начинается в скобках после &lt;span data-reactroot=&quot;&quot; class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;1&quot; style=&quot;font-family:&amp;quot;SFMono-Regular&amp;quot;, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,0.15);color:#EB5757;border-radius:3px;font-size:85%;padding:0.2em 0.4em&quot;&gt;+7&lt;/span&gt;." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="990" y="525" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT9QCA_H9HxwxS0uMx9N-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="269.5" as="sourcePoint" />
             <mxPoint x="990" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-95" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AT9QCA_H9HxwxS0uMx9N-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="770" as="sourcePoint" />
+            <mxPoint x="790" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-96" value="Кнопка Заказать" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-99" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="630" as="sourcePoint" />
+            <mxPoint x="790" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="339.5" as="sourcePoint" />
+            <mxPoint x="990" y="339.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="409.5" as="sourcePoint" />
+            <mxPoint x="990" y="409.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="480" as="sourcePoint" />
+            <mxPoint x="990" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-103" value="При вводе уникальных валидных данных будет оформлен заказ, появится сообщение &quot;Заказ оформлен&quot;. &lt;font color=&quot;#ff0000&quot;&gt;Счетчик человек должен увеличиться на одно значение&lt;/font&gt;.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="590" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="619.5" as="sourcePoint" />
+            <mxPoint x="990" y="619.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="554" as="sourcePoint" />
+            <mxPoint x="990" y="554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="109.5" as="sourcePoint" />
+            <mxPoint x="990" y="109.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-110" value="Информация о количестве подписавшихся пользователей берётся с сервера в момент загрузки страницы и обновляется раз в 1-3 секунды." style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="660" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="689.5" as="sourcePoint" />
+            <mxPoint x="990" y="689.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-112" value="&lt;font color=&quot;#000000&quot;&gt;*Проект менеджер, прошу&amp;nbsp; дополнить п.2 Блока с формой предзаказа условием, что при вводе всех валидных данных в поле предзаказа счетчик увеличивается на одно значение. Спасибо&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1078" width="1120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AT9QCA_H9HxwxS0uMx9N-113" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontColor=#FF0000;" edge="1" parent="1" source="AT9QCA_H9HxwxS0uMx9N-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="1060" as="sourcePoint" />
+            <mxPoint x="1110" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
