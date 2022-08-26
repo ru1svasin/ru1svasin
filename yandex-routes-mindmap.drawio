@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T12:46:05.802Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="tTNMSrMdfxdWreqQ8gYs" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-26T13:00:10.771Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="kHe46GbHr89_QPC5Qjdy" version="20.2.7" type="github">
   <diagram id="mye7cpsdecRdVJIh1ltE" name="Page-1">
-    <mxGraphModel dx="3076" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4498" dy="2699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -521,7 +521,7 @@
           <mxGeometry x="1160" y="655" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NGLzfRE2hstAdica4r9p-213" value="Проверяй шрифт" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="1020" width="570" height="40" as="geometry" />
+          <mxGeometry x="-1070" y="1040" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NGLzfRE2hstAdica4r9p-216" value="Пользователь&amp;nbsp; устанавливает время своего отправления в единицах измерения - минуты" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-230" width="570" height="40" as="geometry" />
