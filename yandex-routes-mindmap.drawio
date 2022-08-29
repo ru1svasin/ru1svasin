@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T08:17:11.443Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="odUmf2P9raebswfn4MWU" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T09:37:59.696Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="B5We1UUvgCojsYJVbG31" version="20.2.7" type="github">
   <diagram id="mye7cpsdecRdVJIh1ltE" name="Page-1">
     <mxGraphModel dx="3076" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -787,13 +787,13 @@
         <mxCell id="-G2-odD6s9fwSHAbLvdX-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" parent="1" source="NGLzfRE2hstAdica4r9p-263" target="-G2-odD6s9fwSHAbLvdX-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGLzfRE2hstAdica4r9p-263" value="При выборе вида транспорта &quot;Собственное авто&quot; строится маршрут, рассчитывается время и стоимость поездки" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
+        <mxCell id="NGLzfRE2hstAdica4r9p-263" value="При выборе вида транспорта &quot;Собственное авто&quot; строится маршрут, рассчитывается время поездки" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="1160" y="225" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-G2-odD6s9fwSHAbLvdX-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" parent="1" source="NGLzfRE2hstAdica4r9p-264" target="-G2-odD6s9fwSHAbLvdX-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGLzfRE2hstAdica4r9p-264" value="При выборе вида транспорта &quot;Пешком&quot; строится маршрут, рассчитывается время и стоимость поездки" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
+        <mxCell id="NGLzfRE2hstAdica4r9p-264" value="При выборе вида транспорта &quot;Пешком&quot; строится маршрут, рассчитывается время поездки" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="1160" y="275" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-G2-odD6s9fwSHAbLvdX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="NGLzfRE2hstAdica4r9p-265" target="-G2-odD6s9fwSHAbLvdX-82" edge="1">
