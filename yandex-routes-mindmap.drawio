@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T13:54:43.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.822 Yowser/2.5 Safari/537.36" etag="qHNw_uim_cg22WXDAY9y" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T08:17:11.443Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.821 Yowser/2.5 Safari/537.36" etag="odUmf2P9raebswfn4MWU" version="20.2.7" type="github">
   <diagram id="mye7cpsdecRdVJIh1ltE" name="Page-1">
-    <mxGraphModel dx="2479" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="740" y="-441" width="190" height="1610" as="geometry" />
         </mxCell>
         <mxCell id="NGLzfRE2hstAdica4r9p-149" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="930" y="-441" width="220" height="1610" as="geometry" />
+          <mxGeometry x="930" y="-441" width="210" height="1610" as="geometry" />
         </mxCell>
         <mxCell id="NGLzfRE2hstAdica4r9p-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-470" y="-440" width="540" height="1610" as="geometry" />
@@ -84,7 +84,7 @@
         <mxCell id="NGLzfRE2hstAdica4r9p-146" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NGLzfRE2hstAdica4r9p-2" target="NGLzfRE2hstAdica4r9p-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGLzfRE2hstAdica4r9p-2" value="Блок: баннер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="NGLzfRE2hstAdica4r9p-2" value="Блок визуального результата ввода данных" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-100" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NGLzfRE2hstAdica4r9p-114" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NGLzfRE2hstAdica4r9p-3" target="NGLzfRE2hstAdica4r9p-110" edge="1">
@@ -147,13 +147,13 @@
         <mxCell id="-G2-odD6s9fwSHAbLvdX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" parent="1" source="NGLzfRE2hstAdica4r9p-51" target="NGLzfRE2hstAdica4r9p-213" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGLzfRE2hstAdica4r9p-51" value="Текст баннера&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
+        <mxCell id="NGLzfRE2hstAdica4r9p-51" value="Текст с результатом расчета времени и стоимости поездки&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="-440" y="1015" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-G2-odD6s9fwSHAbLvdX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" parent="1" source="NGLzfRE2hstAdica4r9p-52" target="-G2-odD6s9fwSHAbLvdX-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGLzfRE2hstAdica4r9p-52" value="Кнопка &quot;Вызвать такси&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
+        <mxCell id="NGLzfRE2hstAdica4r9p-52" value="Кнопка&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="-440" y="1090" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-G2-odD6s9fwSHAbLvdX-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" parent="1" source="NGLzfRE2hstAdica4r9p-60" target="-G2-odD6s9fwSHAbLvdX-68" edge="1">
@@ -403,7 +403,10 @@
         <mxCell id="NGLzfRE2hstAdica4r9p-184" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NGLzfRE2hstAdica4r9p-151" target="NGLzfRE2hstAdica4r9p-171" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGLzfRE2hstAdica4r9p-151" value="Блок: баннер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="0DQCM8NOAW1yRZtYwcaa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGLzfRE2hstAdica4r9p-151" target="0DQCM8NOAW1yRZtYwcaa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGLzfRE2hstAdica4r9p-151" value="Блок визуального результата ввода данных" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="600" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NGLzfRE2hstAdica4r9p-185" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NGLzfRE2hstAdica4r9p-152" target="NGLzfRE2hstAdica4r9p-174" edge="1">
@@ -493,10 +496,10 @@
         <mxCell id="NGLzfRE2hstAdica4r9p-200" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NGLzfRE2hstAdica4r9p-171" target="NGLzfRE2hstAdica4r9p-172" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGLzfRE2hstAdica4r9p-171" value="Кнопка &quot;Вызвать такси&quot;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1090" width="120" height="50" as="geometry" />
+        <mxCell id="NGLzfRE2hstAdica4r9p-171" value="Кнопка" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
+          <mxGeometry x="970" y="1090" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NGLzfRE2hstAdica4r9p-172" value="Клик на кнопку ведет в сервис&amp;nbsp; вызова такси" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
+        <mxCell id="NGLzfRE2hstAdica4r9p-172" value="Клик на кнопку ведет в сервис&amp;nbsp; вызова такси, аренды велосипеда, самоката, каршеринга или начала отслеживания маршрута движения пешком или на личном автомобиле&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1095" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NGLzfRE2hstAdica4r9p-201" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NGLzfRE2hstAdica4r9p-173" target="NGLzfRE2hstAdica4r9p-177" edge="1">
@@ -572,8 +575,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1050" y="882" />
-              <mxPoint x="1110" y="882" />
-              <mxPoint x="1110" y="970" />
+              <mxPoint x="1120" y="882" />
+              <mxPoint x="1120" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -924,6 +927,15 @@
         </mxCell>
         <mxCell id="-G2-odD6s9fwSHAbLvdX-86" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Обязательность выбора&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Состояния переключателя активен&lt;/li&gt;&lt;li&gt;Состояние переключателя выбран&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Состояние переключателя не активен&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="1800" y="295" width="300" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0DQCM8NOAW1yRZtYwcaa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0DQCM8NOAW1yRZtYwcaa-2" target="0DQCM8NOAW1yRZtYwcaa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DQCM8NOAW1yRZtYwcaa-2" value="Текст с результатом расчета времени и стоимости поездки&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1015" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0DQCM8NOAW1yRZtYwcaa-4" value="Сервис рассчитывает время и стоимость поездки для Пользователя" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1020" width="570" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
