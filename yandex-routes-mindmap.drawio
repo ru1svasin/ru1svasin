@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T12:57:53.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.4.957 Yowser/2.5 Safari/537.36" etag="UFE9nyqpOsOZCO0VfGTJ" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T17:24:12.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.4.957 Yowser/2.5 Safari/537.36" etag="3_B3c1aVt3Z1QY8I53he" version="20.2.7" type="github">
   <diagram id="mye7cpsdecRdVJIh1ltE" name="Page-1">
-    <mxGraphModel dx="3327" dy="2069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2644" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
         <mxCell id="-G2-odD6s9fwSHAbLvdX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" parent="1" source="NGLzfRE2hstAdica4r9p-50" target="-G2-odD6s9fwSHAbLvdX-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NGLzfRE2hstAdica4r9p-50" value="Картинка автомобиля такси&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
+        <mxCell id="NGLzfRE2hstAdica4r9p-50" value="Картинка&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="-440" y="940" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-G2-odD6s9fwSHAbLvdX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" parent="1" source="NGLzfRE2hstAdica4r9p-51" target="NGLzfRE2hstAdica4r9p-213" edge="1">
@@ -499,7 +499,7 @@
         <mxCell id="NGLzfRE2hstAdica4r9p-171" value="Кнопка" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="970" y="1110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rzaIsfXp-3-8wJwu38ya-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="NGLzfRE2hstAdica4r9p-172" target="rzaIsfXp-3-8wJwu38ya-10">
+        <mxCell id="rzaIsfXp-3-8wJwu38ya-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="NGLzfRE2hstAdica4r9p-172" target="rzaIsfXp-3-8wJwu38ya-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NGLzfRE2hstAdica4r9p-172" value="Клик на кнопку ведет в сервис&amp;nbsp; вызова такси, аренды велосипеда, самоката, каршеринга или начала отслеживания маршрута движения пешком или на личном автомобиле&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
@@ -841,7 +841,7 @@
         <mxCell id="-G2-odD6s9fwSHAbLvdX-20" value="Проверяй шрифт, цвет, проверит орфографию, выравнивание элементов по отношению к друг другу&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1020" width="570" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-G2-odD6s9fwSHAbLvdX-21" value="Наличие картинки,&amp;nbsp;&amp;nbsp;выравнивание элементов по отношению к друг другу" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="-G2-odD6s9fwSHAbLvdX-21" value="Наличие картинки,&amp;nbsp;&amp;nbsp;выравнивание элементов по отношению к друг другу &lt;font color=&quot;#ff3333&quot;&gt;(Картинка такси, пешком, личный автомобиль, каршеринг, велошеринг, шеринг самоката)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="945" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-G2-odD6s9fwSHAbLvdX-22" value="Шрифт, размер,&lt;font color=&quot;#000000&quot;&gt; цвет,&lt;/font&gt; &lt;font color=&quot;#000000&quot;&gt;орфография&lt;/font&gt;, &lt;font color=&quot;#000000&quot;&gt;выравнивание элементов по отношению к друг другу&lt;/font&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;fontColor=#FF0000;" parent="1" vertex="1">
@@ -937,7 +937,7 @@
         <mxCell id="0DQCM8NOAW1yRZtYwcaa-2" value="Результат расчета времени поездки&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="970" y="1000" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rzaIsfXp-3-8wJwu38ya-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="0DQCM8NOAW1yRZtYwcaa-4" target="rzaIsfXp-3-8wJwu38ya-6">
+        <mxCell id="rzaIsfXp-3-8wJwu38ya-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="0DQCM8NOAW1yRZtYwcaa-4" target="rzaIsfXp-3-8wJwu38ya-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1790" y="1025" />
@@ -948,25 +948,25 @@
         <mxCell id="0DQCM8NOAW1yRZtYwcaa-4" value="Сервис рассчитывает время поездки для Пользователя" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1005" width="570" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzaIsfXp-3-8wJwu38ya-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="rzaIsfXp-3-8wJwu38ya-1" target="rzaIsfXp-3-8wJwu38ya-7">
+        <mxCell id="rzaIsfXp-3-8wJwu38ya-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="rzaIsfXp-3-8wJwu38ya-1" target="rzaIsfXp-3-8wJwu38ya-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rzaIsfXp-3-8wJwu38ya-1" value="Сервис рассчитывает стоимость поездки для Пользователя" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" vertex="1" parent="1">
+        <mxCell id="rzaIsfXp-3-8wJwu38ya-1" value="Сервис рассчитывает стоимость поездки для Пользователя" style="whiteSpace=wrap;html=1;rounded=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1060" width="570" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rzaIsfXp-3-8wJwu38ya-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzaIsfXp-3-8wJwu38ya-2" target="rzaIsfXp-3-8wJwu38ya-1">
+        <mxCell id="rzaIsfXp-3-8wJwu38ya-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rzaIsfXp-3-8wJwu38ya-2" target="rzaIsfXp-3-8wJwu38ya-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rzaIsfXp-3-8wJwu38ya-2" value="Результат расчета стоимости поездки&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="1">
+        <mxCell id="rzaIsfXp-3-8wJwu38ya-2" value="Результат расчета стоимости поездки&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="970" y="1055" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rzaIsfXp-3-8wJwu38ya-6" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Обязательность отображения&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Целое число&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Перед числом писать &quot;В пути&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;После числа писать &quot;мин.&quot;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="rzaIsfXp-3-8wJwu38ya-6" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Обязательность отображения&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Целое число&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Перед числом писать &quot;В пути&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;После числа писать &quot;мин.&quot;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="1800" y="868.75" width="300" height="86.25" as="geometry" />
         </mxCell>
-        <mxCell id="rzaIsfXp-3-8wJwu38ya-7" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Обязательность отображения&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Целое число&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Перед числом писать выбор транспорта Пользователя и символ &quot;~&quot;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;После числа писать &quot;руб.&quot;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="rzaIsfXp-3-8wJwu38ya-7" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Обязательность отображения&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Целое число&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Перед числом писать выбор транспорта Пользователя и символ &quot;~&quot;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;После числа писать &quot;руб.&quot;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="1800" y="990" width="300" height="112.5" as="geometry" />
         </mxCell>
-        <mxCell id="rzaIsfXp-3-8wJwu38ya-10" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;При стоимости поездки 0 рублей кнопка не активна. Пользователю предлагается вариант транспорта Пешком&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="rzaIsfXp-3-8wJwu38ya-10" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;При стоимости поездки 0 рублей кнопка не активна. Пользователю предлагается вариант транспорта Пешком&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="1800" y="1091.88" width="300" height="86.25" as="geometry" />
         </mxCell>
       </root>
