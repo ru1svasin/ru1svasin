@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T12:24:28.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.4.957 Yowser/2.5 Safari/537.36" etag="-GgC4iEqb2fFtkqCWhah" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T12:57:53.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.4.957 Yowser/2.5 Safari/537.36" etag="UFE9nyqpOsOZCO0VfGTJ" version="20.2.7" type="github">
   <diagram id="mye7cpsdecRdVJIh1ltE" name="Page-1">
-    <mxGraphModel dx="3076" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3327" dy="2069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -817,10 +817,10 @@
         <mxCell id="NGLzfRE2hstAdica4r9p-272" value="Такси" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="1" vertex="1">
           <mxGeometry x="965" y="325" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-G2-odD6s9fwSHAbLvdX-1" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Обязательность заполнения&lt;/font&gt;&lt;/li&gt;&lt;li&gt;от 0 до 23 цифр включительно&amp;nbsp;&lt;/li&gt;&lt;li&gt;Ноль перед однозначным числом система выставляет автоматически&lt;/li&gt;&lt;li&gt;Только целые числа&lt;/li&gt;&lt;li&gt;При некорректном вводе подсвечивается красным, ошибка &quot;Вы ввели некорректное время&quot;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
+        <mxCell id="-G2-odD6s9fwSHAbLvdX-1" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Обязательность заполнения&lt;/font&gt;&lt;/li&gt;&lt;li&gt;От 0 до 23 цифр включительно&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;В случае ввода Пользователем цифру 24 система автоматически устанавливает значение 00&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Ноль перед однозначным числом система выставляет автоматически&lt;/li&gt;&lt;li&gt;Только целые числа&lt;/li&gt;&lt;li&gt;При некорректном вводе подсвечивается красным, ошибка &quot;Вы ввели некорректное время&quot;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="1800" y="-450" width="300" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="-G2-odD6s9fwSHAbLvdX-5" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Обязательность заполнения&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;от 0 до 59 цифр включительно&lt;/font&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Нули перед однозначным числом система выставляет автоматически&lt;/li&gt;&lt;li&gt;Только целые числа&lt;/li&gt;&lt;li&gt;При некорректном вводе подсвечивается красным, ошибка &quot;Вы ввели некорректное время&quot;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
+        <mxCell id="-G2-odD6s9fwSHAbLvdX-5" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;Обязательность заполнения&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;От 0 до 59 цифр включительно&lt;/font&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Нули перед однозначным числом система выставляет автоматически&lt;/li&gt;&lt;li&gt;Только целые числа&lt;/li&gt;&lt;li&gt;При некорректном вводе подсвечивается красным, ошибка &quot;Вы ввели некорректное время&quot;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="1800" y="-290" width="300" height="135" as="geometry" />
         </mxCell>
         <mxCell id="-G2-odD6s9fwSHAbLvdX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;strokeColor=#000000;fillColor=#FF0000;" parent="1" vertex="1">
