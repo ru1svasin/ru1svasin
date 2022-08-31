@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T10:10:12.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.4.957 Yowser/2.5 Safari/537.36" etag="s-1_pdeUrNSompoatI0w" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T10:11:02.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.4.957 Yowser/2.5 Safari/537.36" etag="Jen4GPLVf9wxdJ5-ihQk" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3015" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4890" dy="3355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -611,14 +611,6 @@
         <mxCell id="x6Bd8umGDYyrX07FAp9d-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x6Bd8umGDYyrX07FAp9d-22" target="TxrjslWTLOFKVKNDRbL8-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x6Bd8umGDYyrX07FAp9d-75" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x6Bd8umGDYyrX07FAp9d-22" target="MDdszQrk_3YS0Ri55PwZ-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="20" y="1555" />
-              <mxPoint x="20" y="1860" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="x6Bd8umGDYyrX07FAp9d-22" value="Интервал времени Пользователя с 22:01 до 00:00" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="1490" width="130" height="130" as="geometry" />
         </mxCell>
@@ -677,9 +669,6 @@
         </mxCell>
         <mxCell id="x6Bd8umGDYyrX07FAp9d-72" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="1350" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x6Bd8umGDYyrX07FAp9d-74" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="1525" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
