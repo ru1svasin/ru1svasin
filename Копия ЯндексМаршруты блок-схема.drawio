@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T10:03:37.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.4.957 Yowser/2.5 Safari/537.36" etag="3N9aPtyvkDhZmsF54D9G" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T10:11:23.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.4.957 Yowser/2.5 Safari/537.36" etag="6OyUZJjBQm6_-aHk8U_f" version="20.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -198,15 +198,6 @@
         <mxCell id="TxrjslWTLOFKVKNDRbL8-100" value="Система определяет время маршрута" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="1525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mrc36NXU-_pIQGmYxE-A-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-150" y="1990" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Mrc36NXU-_pIQGmYxE-A-3" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-40" y="1995" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Mrc36NXU-_pIQGmYxE-A-4" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;- Стоимость поездки не может быть 0 руб.? (исключение вид транспорта пешком). Система Предлагает пользователю воспользоваться видом транспорта пешком?&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=24;fontColor=#FF0000;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="1920" width="635" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="oh5eWrbdU4gbp5_5aUjE-4" value="&lt;h1&gt;Блок-схема задания проекта&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="1865" width="397" height="40" as="geometry" />
         </mxCell>
@@ -252,6 +243,16 @@
         <mxCell id="x6Bd8umGDYyrX07FAp9d-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x6Bd8umGDYyrX07FAp9d-22" target="TxrjslWTLOFKVKNDRbL8-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GXfTCK9ahf9_WwvT0qx7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x6Bd8umGDYyrX07FAp9d-22" target="MDdszQrk_3YS0Ri55PwZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="1555" />
+              <mxPoint x="60" y="785" />
+              <mxPoint x="-50" y="785" />
+              <mxPoint x="-50" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x6Bd8umGDYyrX07FAp9d-22" value="Интервал времени Пользователя с 22:01 до 00:00" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="155" y="1490" width="130" height="130" as="geometry" />
         </mxCell>
@@ -284,6 +285,9 @@
         </mxCell>
         <mxCell id="x6Bd8umGDYyrX07FAp9d-69" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXfTCK9ahf9_WwvT0qx7-2" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="1520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
