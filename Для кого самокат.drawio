@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T08:14:43.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.0.2500 Yowser/2.5 Safari/537.36" etag="I9EgKAEqztTlVsXNWjQB" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T09:29:53.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.0.2500 Yowser/2.5 Safari/537.36" etag="4mFYu7pfybq3YffzbDrc" version="20.5.3" type="github">
   <diagram id="o3SfKFsg-XddMGT-pLEB" name="Страница 1">
-    <mxGraphModel dx="1992" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2241" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,9 +199,6 @@
         <mxCell id="TAnfAXLuEqWQbed71-oy-78" value="Header" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-120">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -217,7 +214,7 @@
         <mxCell id="TAnfAXLuEqWQbed71-oy-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-126">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-79" value="Блок ввода данных" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -246,12 +243,6 @@
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-119" value="Кнопка Статус заказа" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-120" target="TAnfAXLuEqWQbed71-oy-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-120" value="Заголовок" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-121" target="TAnfAXLuEqWQbed71-oy-143">
           <mxGeometry relative="1" as="geometry" />
@@ -289,38 +280,70 @@
         <mxCell id="TAnfAXLuEqWQbed71-oy-126" value="Кнопка Далее" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-138" value="Клик на Яндекс ведет на главную страницу dzen.ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-138" value="Клик по лого Яндекс ведет на главную страницу dzen.ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-180" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-139" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Клик на Яндекс ведет на главную страницу Самокаты&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-139" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Клик по лого Самокаты ведет на главную страницу приложения Самокаты&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-90" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-140" value="Место расположение элемента, текст, шрифт, цвет, размер, орфография" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-140" value="Клик по кнопке оставляет пользователя на текущей странице" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-141" value="Место расположение элемента, текст, шрифт, цвет, размер, орфография" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-141" value="Клик по кнопке открывает поле ввода &quot;Введите номер заказа&quot; и кнопку Go!&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="90" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-142" value="Место расположение элемента, текст, шрифт, цвет, размер, орфография" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="180" width="430" height="60" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-143" target="TAnfAXLuEqWQbed71-oy-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1635" y="270" />
+              <mxPoint x="1635" y="145" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-143" value="Место расположение элемента, текст, шрифт, цвет, размер, орфография, плейсхолдер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-143" value="Пользователь вводит Имя" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="270" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-144" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Место расположение элемента, текст, шрифт, цвет, размер, орфография, плейсхолдер&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-144" target="TAnfAXLuEqWQbed71-oy-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-144" value="Пользователь вводи Фамилию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="360" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-145" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Место расположение элемента, текст, шрифт, цвет, размер, орфография, плейсхолдер&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-145" target="TAnfAXLuEqWQbed71-oy-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-145" value="Пользователь вводит Адрес куда привезти самокат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="450" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-146" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Место расположение элемента, текст, шрифт, цвет, размер, орфография, плейсхолдер&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-146" target="TAnfAXLuEqWQbed71-oy-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-146" value="Пользователь выбирает станцию метро" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="540" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-147" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Место расположение элемента, текст, шрифт, цвет, размер, орфография, плейсхолдер&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-147" target="TAnfAXLuEqWQbed71-oy-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-147" value="Пользователь вводит номер телефона" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="630" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-148" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Место расположение элемента, текст, шрифт, цвет, размер, орфография&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-148" value="Клик по кнопке переводит в форму &quot;Про аренду&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="720" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-161" value="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;Только русские буквы, пробел, тире.&lt;br&gt;Длина не менее 2 и не более 15&lt;br&gt;символов. При некорректном вводе&lt;br&gt;подсвечивается красным. Текст&lt;br&gt;ошибки «Введите корректное имя»&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="80" width="410" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-162" value="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;Только русские буквы. Длина не&lt;br style=&quot;&quot;&gt;менее 2 и не более 15 символов. При&lt;br style=&quot;&quot;&gt;некорректном вводе подсвечивается&lt;br style=&quot;&quot;&gt;красным, появляется текст ошибки&lt;br style=&quot;&quot;&gt;«Введите корректную фамилию».&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="225" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-163" value="&lt;h1 style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Только русские буквы, цифры,&lt;br&gt;пробел, тире, точка, запятая. Длина&lt;br&gt;не менее 5 и не более 50 символов.&lt;br&gt;Пробелы до и после адреса&lt;br&gt;удаляются при снятии фокуса. При&lt;br&gt;некорректном вводе подсвечивается&lt;br&gt;красным, появляется текст ошибки&lt;br&gt;«Введите корректный адрес».&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="355" width="410" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-164" value="&lt;h1 style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Станции метро Москвы. Список&lt;br&gt;метро зашит на стороне бэкенда (в&lt;br&gt;API)&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="600" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-171" value="&lt;b&gt;Только цифры и знак +. Длина не&lt;br&gt;менее 10 и не более 12 символов. При&lt;br&gt;некорректном вводе подсвечивается&lt;br&gt;красным. Текст ошибки «Введите&lt;br&gt;корректный телефон».&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="730" width="420" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
