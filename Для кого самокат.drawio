@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T14:50:48.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="F12s3djTrdkPnwuVWTLy" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T15:03:46.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="y0W4Ya6IhpNyTVDOotsG" version="20.6.0" type="github">
   <diagram id="o3SfKFsg-XddMGT-pLEB" name="Страница 1">
     <mxGraphModel dx="1817" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,7 +289,7 @@
         <mxCell id="TAnfAXLuEqWQbed71-oy-140" value="Клик по кнопке оставляет пользователя на текущей странице" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-141" value="Клик по кнопке открывает поле ввода &quot;Введите номер заказа&quot; и кнопку Go!&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-141" value="Клик по кнопке открывает поле ввода &lt;font color=&quot;#ff3333&quot;&gt;&quot;Номер заказа&quot;&lt;/font&gt; &lt;strike&gt;&lt;font color=&quot;#ff3333&quot;&gt;и кнопку Go!&amp;nbsp;&lt;/font&gt;&lt;/strike&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="90" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" parent="1" source="TAnfAXLuEqWQbed71-oy-143" target="TAnfAXLuEqWQbed71-oy-161" edge="1">
