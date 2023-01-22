@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T06:27:10.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="uMDtKjNTFwLZ7Ay3SQow" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T18:46:26.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="1kTNaQWaZDQn0nUZwncB" version="20.8.5" type="github">
   <diagram id="o3SfKFsg-XddMGT-pLEB" name="Страница 1">
     <mxGraphModel dx="2062" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,9 @@
         <mxCell id="TAnfAXLuEqWQbed71-oy-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LpkSBFuTGmihEv2rMlFd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="LpkSBFuTGmihEv2rMlFd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-79" value="Блок Калькулятора" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -138,13 +141,13 @@
         <mxCell id="q7H33yNPWdlgNEpQIhCl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="TAnfAXLuEqWQbed71-oy-143" target="q7H33yNPWdlgNEpQIhCl-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-143" value="Экран вывода результата движения ползунка" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-143" value="Окно вывода результата движения ползунка" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="TAnfAXLuEqWQbed71-oy-144" target="q7H33yNPWdlgNEpQIhCl-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-144" value="Экран вывода результата движения ползунка" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-144" value="Окно вывода результата движения ползунка" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="370" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" parent="1" source="TAnfAXLuEqWQbed71-oy-145" edge="1">
@@ -176,8 +179,8 @@
         <mxCell id="q7H33yNPWdlgNEpQIhCl-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="q7H33yNPWdlgNEpQIhCl-1" target="q7H33yNPWdlgNEpQIhCl-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="1310" />
-              <mxPoint x="1110" y="1270" />
+              <mxPoint x="1110" y="1410" />
+              <mxPoint x="1110" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -201,15 +204,15 @@
         </mxCell>
         <mxCell id="LpkSBFuTGmihEv2rMlFd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7H33yNPWdlgNEpQIhCl-1" target="LpkSBFuTGmihEv2rMlFd-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120" y="1319.9999999999995" as="targetPoint" />
+            <mxPoint x="1120" y="1419.9999999999995" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1110" y="1310" />
-              <mxPoint x="1110" y="1325" />
+              <mxPoint x="1110" y="1410" />
+              <mxPoint x="1110" y="1425" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-1" value="Footer" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q7H33yNPWdlgNEpQIhCl-8" target="q7H33yNPWdlgNEpQIhCl-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -245,7 +248,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-24" value="Блок Частые вопросы" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-25" value="Блок Информации" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="520" width="120" height="60" as="geometry" />
@@ -254,85 +257,94 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-27" value="Кнопка Подробнее в окне Получить деньги" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q7H33yNPWdlgNEpQIhCl-29" target="q7H33yNPWdlgNEpQIhCl-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-29" value="Кнопка Подробнее в окне Погасить кредит" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q7H33yNPWdlgNEpQIhCl-31" target="q7H33yNPWdlgNEpQIhCl-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-31" value="Кнопка Подробнее в окне Продлить кредит" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-33" value="Клик по кнопке переводит на страницу с информацией как получить деньги" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="570" width="430" height="60" as="geometry" />
+          <mxGeometry x="1160" y="680" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-35" value="Клик по кнопке переводит на страницу с информацией как Погасить кредит" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="660" width="430" height="60" as="geometry" />
+          <mxGeometry x="1160" y="770" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-36" value="Клик по кнопке переводит на страницу с информацией как Продлить кредит" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="750" width="430" height="60" as="geometry" />
+          <mxGeometry x="1160" y="860" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-42" value="Кнопка &quot;О компании&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-43" value="Кнопка &quot;Юридическая информация&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-44" value="Кнопка &quot;Контакты и реквизиты&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-45" value="Кнопка &quot;Кредит онлайн на карту без отказа срочно&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-46" value="Кнопка &quot;Кредит без справки о доходах срочно&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-47" value="Кнопка &quot;Как получить кредит?&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LpkSBFuTGmihEv2rMlFd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="q7H33yNPWdlgNEpQIhCl-49" target="LpkSBFuTGmihEv2rMlFd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-49" value="Кнопка &quot;Как погасить&amp;nbsp; кредит?&quot;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-50" value="Кнопка &quot;Деньги до зарплаты&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-51" value="Кнопка &quot;Кредит с 18 лет&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-52" value="Кнопка &quot;Кредит безработному&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1470" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-53" value="Кнопка &quot;Бесплатный звонок&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1540" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-54" value="Кнопка &quot;отправить E-mail&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1610" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-55" value="Кнопка &quot;Переход в группу в vk&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1680" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-80" value="Баннерная реклама" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1410" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q7H33yNPWdlgNEpQIhCl-82" value="Чат" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1520" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LpkSBFuTGmihEv2rMlFd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="LpkSBFuTGmihEv2rMlFd-1" target="LpkSBFuTGmihEv2rMlFd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpkSBFuTGmihEv2rMlFd-1" value="Кнопка &quot;Как продлить кредит?&quot;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LpkSBFuTGmihEv2rMlFd-4" value="Разбил кнопку на две т.к. логика кнопки должна вести на разные страницы" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="1260" width="155" height="90" as="geometry" />
+          <mxGeometry x="1315" y="1360" width="155" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LpkSBFuTGmihEv2rMlFd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpkSBFuTGmihEv2rMlFd-9" target="LpkSBFuTGmihEv2rMlFd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpkSBFuTGmihEv2rMlFd-9" value="Окно результата подсчета Калькулятора" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LpkSBFuTGmihEv2rMlFd-10" value="В окне выводится информация с суммой кредита, до какой даты взят кредит и сумма к возврату" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="555" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
