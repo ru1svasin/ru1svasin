@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T04:30:21.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="XreUXEEQ5I2JzihUQGpa" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-27T04:47:31.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="RFBI6v9i9AXsQ890q5xM" version="20.8.10" type="github">
   <diagram id="o3SfKFsg-XddMGT-pLEB" name="Страница 1">
-    <mxGraphModel dx="3452" dy="2612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3827" dy="2818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,6 +14,9 @@
           <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-3" target="TAnfAXLuEqWQbed71-oy-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-3" target="jt-Zn96lODomyRDhghk2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-3" value="Логика" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -104,7 +107,7 @@
         <mxCell id="TAnfAXLuEqWQbed71-oy-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-32" target="TAnfAXLuEqWQbed71-oy-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-32" value="Элемент отображения пароля" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="TAnfAXLuEqWQbed71-oy-32" value="Кнопка отображения пароля" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-33" target="TAnfAXLuEqWQbed71-oy-59" edge="1">
@@ -158,9 +161,6 @@
         <mxCell id="TAnfAXLuEqWQbed71-oy-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-126" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-79" value="Блок ввода данных" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="330" width="120" height="60" as="geometry" />
         </mxCell>
@@ -168,55 +168,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-121" value="Поле ввода - Имя" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-122" target="TAnfAXLuEqWQbed71-oy-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-122" value="Поле ввода - Фамилия" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-122" value="Поле ввода - Пароль" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-123" target="TAnfAXLuEqWQbed71-oy-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-123" value="Поле ввода - Адрес: куда привезти" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-123" value="Кнопка отображения пароля" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-124" target="TAnfAXLuEqWQbed71-oy-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-124" value="Поле ввода - Станция метро" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-124" value="Кнопка &quot;Войти&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-125" target="TAnfAXLuEqWQbed71-oy-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-125" value="Поле ввода - Телефон: на него позвонит курьер" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-125" value="Кнопка &quot;Еще не зарегистрированы? Зарегистрируйтесь&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-126" target="TAnfAXLuEqWQbed71-oy-148" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-143" value="Пользователь вводит зарегистрированное Имя&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="150" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-126" value="Кнопка Далее" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-144" value="Пользователь вводи пароль к зарегистрированному Имени&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="240" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-143" value="Пользователь вводит Имя" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="60" width="430" height="60" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-145" value="Кнопка кликабельна. Клик по кнопке ведет к отображению пароля. Повторный клик по кнопке ведет к скрытию пароля" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="330" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-144" value="Пользователь вводи Фамилию" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="150" width="430" height="60" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-146" value="Клик по кнопке ведет на главную страницу Kittygram если пользователь ввел валидные значения в поле Имя и Пароль" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="420" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-145" value="Пользователь вводит Адрес куда привезти самокат" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="240" width="430" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-146" value="Пользователь выбирает станцию метро" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="330" width="430" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-147" value="Пользователь вводит номер телефона" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="420" width="430" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TAnfAXLuEqWQbed71-oy-148" value="Клик по кнопке переводит в форму &quot;Про аренду&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="510" width="430" height="60" as="geometry" />
+        <mxCell id="TAnfAXLuEqWQbed71-oy-147" value="Клик по кнопке ведет на страницу регистрации" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="510" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xQ01a2YANTBOG30FUFwp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xQ01a2YANTBOG30FUFwp-22" target="xQ01a2YANTBOG30FUFwp-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -232,6 +223,21 @@
         </mxCell>
         <mxCell id="xQ01a2YANTBOG30FUFwp-31" value="Проверить место расположение элемента, текст, шрифт, цвет, размер, орфография" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="660" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="jt-Zn96lODomyRDhghk2-3" target="jt-Zn96lODomyRDhghk2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-3" value="Footer" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="730" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="jt-Zn96lODomyRDhghk2-5" target="jt-Zn96lODomyRDhghk2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-5" value="Надпись &quot;Kittygram 2023&quot;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="960" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-6" value="Год в надписи меняется в зависимости от текущего года&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="650" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
