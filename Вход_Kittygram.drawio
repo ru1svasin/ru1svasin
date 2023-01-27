@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T04:51:25.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="EUDokn1NngyVajhvqo6p" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-27T08:10:52.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="6zx8UXIfOTYiluZ084B4" version="20.8.10" type="github">
   <diagram id="o3SfKFsg-XddMGT-pLEB" name="Страница 1">
-    <mxGraphModel dx="3827" dy="2818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1827" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,8 +203,14 @@
         <mxCell id="TAnfAXLuEqWQbed71-oy-125" value="Кнопка &quot;Еще не зарегистрированы? Зарегистрируйтесь&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-143" target="jt-Zn96lODomyRDhghk2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-143" value="Пользователь вводит зарегистрированное Имя&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="150" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="TAnfAXLuEqWQbed71-oy-144" target="jt-Zn96lODomyRDhghk2-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-144" value="Пользователь вводи пароль к зарегистрированному Имени&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="240" width="430" height="60" as="geometry" />
@@ -247,6 +253,9 @@
         </mxCell>
         <mxCell id="jt-Zn96lODomyRDhghk2-6" value="Год в надписи меняется в зависимости от текущего года&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1140" y="650" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-14" value="&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font&gt;Ошибки валидации&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font&gt;Не заполнено Имя - «Поле с именем является обязательным»&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Не заполнен Пароль - «Поле с паролем является обязательным»&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Если оба поля заполнены, но не прошли проверку на сервере «Неправильные логин и/или пароль»&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="150" width="480" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
