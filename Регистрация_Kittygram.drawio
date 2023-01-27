@@ -1,1 +1,311 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T06:48:05.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="gja5yXYefTwYW5iTuiRB" version="20.8.10" type="github"><diagram id="o3SfKFsg-XddMGT-pLEB" name="Страница 1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-27T08:38:55.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="wb_qMfjvRrsRsW116YmA" version="20.8.10" type="github">
+  <diagram id="o3SfKFsg-XddMGT-pLEB" name="Страница 1">
+    <mxGraphModel dx="2327" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jt-Zn96lODomyRDhghk2-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="-240" width="2430" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="-240" width="1430" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="-240" width="550" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TAnfAXLuEqWQbed71-oy-1" target="TAnfAXLuEqWQbed71-oy-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TAnfAXLuEqWQbed71-oy-1" target="TAnfAXLuEqWQbed71-oy-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-1" value="Зарегистрируйтесь для доступа к Kittygram!" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-3" target="TAnfAXLuEqWQbed71-oy-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" parent="1" source="TAnfAXLuEqWQbed71-oy-3" target="jt-Zn96lODomyRDhghk2-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-3" value="Логика" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-5" target="TAnfAXLuEqWQbed71-oy-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-5" target="TAnfAXLuEqWQbed71-oy-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" parent="1" source="TAnfAXLuEqWQbed71-oy-5" target="xQ01a2YANTBOG30FUFwp-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-5" value="Интерфейс" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TAnfAXLuEqWQbed71-oy-7" target="TAnfAXLuEqWQbed71-oy-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-7" target="TAnfAXLuEqWQbed71-oy-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="-90" />
+              <mxPoint x="-110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-7" target="TAnfAXLuEqWQbed71-oy-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="-90" />
+              <mxPoint x="-110" y="-180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-7" value="Header" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-10" target="TAnfAXLuEqWQbed71-oy-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-10" value="Картинка кота" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-17" target="TAnfAXLuEqWQbed71-oy-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-17" value="Заголовок &quot;Регистрация&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-19" target="TAnfAXLuEqWQbed71-oy-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-19" value="Подзаголовок &quot;Зарегистрируйтесь для доступа к Kittygram!&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-27" target="TAnfAXLuEqWQbed71-oy-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-27" target="TAnfAXLuEqWQbed71-oy-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-27" target="TAnfAXLuEqWQbed71-oy-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-27" target="TAnfAXLuEqWQbed71-oy-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-27" target="TAnfAXLuEqWQbed71-oy-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-27" target="aBo0O9VMhmQBNYFcLqT3-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-27" target="aBo0O9VMhmQBNYFcLqT3-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-27" value="Блок ввода данных" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-30" target="TAnfAXLuEqWQbed71-oy-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-30" value="Поле ввода - Имя" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-31" target="TAnfAXLuEqWQbed71-oy-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-31" value="Поле ввода - Пароль" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-32" target="TAnfAXLuEqWQbed71-oy-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-32" value="Кнопка отображения пароля" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-33" target="TAnfAXLuEqWQbed71-oy-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-33" value="Кнопка &quot;Зарегистрироваться&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-34" target="TAnfAXLuEqWQbed71-oy-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-34" value="Кнопка &quot;Уже зарегистрированы? Войти&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-52" value="Проверить место расположение элемента, цвет, размер" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="-210" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-53" value="Проверить место расположение элемента, текст, шрифт, цвет, размер,орфография" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="-120" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-54" value="Проверить место расположение элемента, текст, шрифт, цвет, размер, орфография" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="-30" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-56" value="Проверить место расположение элемента, текст, шрифт, цвет, размер, орфография, &lt;font color=&quot;#ff3333&quot;&gt;плейсхолдер&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="70" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-57" value="Проверить место расположение элемента, текст, шрифт, цвет, размер, орфография, &lt;font color=&quot;#ff3333&quot;&gt;плейсхолдер&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="160" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-58" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Проверить место расположение элемента, цвет, размер&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="250" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-59" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Проверить место расположение элемента, текст, шрифт, цвет, размер, орфография, текст под кнопкой &quot;или&quot; и текст выше кнопки &quot;Регистрируясь на нашем сайте, вы обещаете постить в сервис только котов, никаких собак.&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="510" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-60" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Проверить место расположение элемента, текст, шрифт, цвет, размер, орфография&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="600" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-121" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-123" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="TAnfAXLuEqWQbed71-oy-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="aBo0O9VMhmQBNYFcLqT3-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-79" target="aBo0O9VMhmQBNYFcLqT3-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-79" value="Блок ввода данных" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-121" target="TAnfAXLuEqWQbed71-oy-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-121" value="Поле ввода - Имя" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-122" target="TAnfAXLuEqWQbed71-oy-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-122" value="Поле ввода - Пароль" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-123" target="TAnfAXLuEqWQbed71-oy-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-123" value="Кнопка отображения пароля" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-124" target="TAnfAXLuEqWQbed71-oy-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-124" value="Кнопка &quot;Зарегистрироваться&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-125" target="TAnfAXLuEqWQbed71-oy-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-125" value="Кнопка &quot;Уже зарегистрированы? Войти&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TAnfAXLuEqWQbed71-oy-143" target="aBo0O9VMhmQBNYFcLqT3-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-143" value="Пользователь вводит Имя из английских букв, цифр и подчёркивания. Минимальная длина — 3 символа." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="70" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TAnfAXLuEqWQbed71-oy-144" target="aBo0O9VMhmQBNYFcLqT3-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-144" value="Пользователь вводит пароль.&amp;nbsp;Может содержать следующие группы символов: большие и маленькие латинские буквы, цифры, знаки пунктуации и специальные символы. Минимальная длина — 8, максимальная — 30. Пароль должен содержать символы минимум из двух разных групп." style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="150" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-145" value="Кнопка кликабельна. Клик по кнопке ведет к отображению пароля. Повторный клик по кнопке ведет к скрытию пароля" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="250" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-146" value="Клик по кнопке ведет на главную страницу Kittygram если пользователь ввел валидные значения в поле Имя, Пароль, Повтор пароля" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="510" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAnfAXLuEqWQbed71-oy-147" value="Клик по кнопке ведет на страницу Входа" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="600" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xQ01a2YANTBOG30FUFwp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xQ01a2YANTBOG30FUFwp-22" target="xQ01a2YANTBOG30FUFwp-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xQ01a2YANTBOG30FUFwp-22" value="Footer" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xQ01a2YANTBOG30FUFwp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xQ01a2YANTBOG30FUFwp-24" target="xQ01a2YANTBOG30FUFwp-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xQ01a2YANTBOG30FUFwp-24" value="Надпись &quot;Kittygram 2023&quot;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xQ01a2YANTBOG30FUFwp-31" value="Проверить место расположение элемента, текст, шрифт, цвет, размер, орфография" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="690" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" parent="1" source="jt-Zn96lODomyRDhghk2-3" target="jt-Zn96lODomyRDhghk2-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-3" value="Footer" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="730" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" parent="1" source="jt-Zn96lODomyRDhghk2-5" target="jt-Zn96lODomyRDhghk2-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-5" value="Надпись &quot;Kittygram 2023&quot;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="960" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-6" value="Год в надписи меняется в зависимости от текущего года&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="690" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aBo0O9VMhmQBNYFcLqT3-4" target="aBo0O9VMhmQBNYFcLqT3-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-4" value="Поле ввода - Повторите Пароль" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aBo0O9VMhmQBNYFcLqT3-6" target="aBo0O9VMhmQBNYFcLqT3-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-6" value="Кнопка отображения повтора пароля" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-7" value="Проверить место расположение элемента, текст, шрифт, цвет, размер, орфография, &lt;font color=&quot;#ff3333&quot;&gt;плейсхолдер&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="330" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Проверить место расположение элемента, цвет, размер&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="420" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aBo0O9VMhmQBNYFcLqT3-12" target="aBo0O9VMhmQBNYFcLqT3-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-12" value="Поле ввода - Повторите Пароль" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aBo0O9VMhmQBNYFcLqT3-14" target="aBo0O9VMhmQBNYFcLqT3-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-14" value="Кнопка отображения повтора пароля" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-15" value="Пользователь вводит повтор пароля.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="330" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-16" value="Кнопка кликабельна. Клик по кнопке ведет к отображению повтора пароля. Повторный клик по кнопке ведет к скрытию повтора пароля" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="420" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBo0O9VMhmQBNYFcLqT3-19" value="&lt;h1&gt;Ошибки валидации&lt;/h1&gt;&lt;ul style=&quot;box-sizing: border-box; list-style: none; padding: 0 0 0 var(--padding); --padding:2em; overflow: auto; color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, Helvetica, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot; class=&quot;wiki-list&quot;&gt;&lt;li style=&quot;box-sizing: inherit; padding: 4px 0px; list-style-type: none;&quot; class=&quot;wiki-li&quot;&gt;&lt;div style=&quot;box-sizing: inherit; display: inline-block; width: 1000px; vertical-align: top; word-break: normal;&quot; class=&quot;wiki-li__wrapper&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin-top: 0px; overflow-wrap: break-word;&quot; class=&quot;wiki-p&quot;&gt;«Некорректное имя»: имя указано с нарушением требований к содержимому поля, красный текст под полем «Имя».&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; padding: 4px 0px; list-style-type: none;&quot; class=&quot;wiki-li&quot;&gt;&lt;div style=&quot;box-sizing: inherit; display: inline-block; width: 1000px; vertical-align: top; word-break: normal;&quot; class=&quot;wiki-li__wrapper&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin-top: 0px; overflow-wrap: break-word;&quot; class=&quot;wiki-p&quot;&gt;«Такой пользователь уже зарегистрирован»: пользователь с таким именем уже зарегистрирован, красный текст под полем «Имя».&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; padding: 4px 0px; list-style-type: none;&quot; class=&quot;wiki-li&quot;&gt;&lt;div style=&quot;box-sizing: inherit; display: inline-block; width: 1000px; vertical-align: top; word-break: normal;&quot; class=&quot;wiki-li__wrapper&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin-top: 0px; overflow-wrap: break-word;&quot; class=&quot;wiki-p&quot;&gt;«Пароль слишком простой»: не учтены правила про две и более групп символов в пароле, красный текст под полем «Пароль».&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; padding: 4px 0px; list-style-type: none;&quot; class=&quot;wiki-li&quot;&gt;&lt;div style=&quot;box-sizing: inherit; display: inline-block; width: 1000px; vertical-align: top; word-break: normal;&quot; class=&quot;wiki-li__wrapper&quot;&gt;&lt;div style=&quot;box-sizing: inherit; margin-top: 0px; overflow-wrap: break-word;&quot; class=&quot;wiki-p&quot;&gt;«Пароли не совпадают!»: поля «Пароль» и «Повторите пароль» содержат разные данные, красный текст под полем «Повторите пароль».&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1690" y="275" width="980" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
