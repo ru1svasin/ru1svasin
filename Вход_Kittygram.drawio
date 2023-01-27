@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T04:47:31.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="RFBI6v9i9AXsQ890q5xM" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-27T04:51:25.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="EUDokn1NngyVajhvqo6p" version="20.8.10" type="github">
   <diagram id="o3SfKFsg-XddMGT-pLEB" name="Страница 1">
     <mxGraphModel dx="3827" dy="2818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jt-Zn96lODomyRDhghk2-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-210" width="2430" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-210" width="1430" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="jt-Zn96lODomyRDhghk2-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-210" width="550" height="970" as="geometry" />
+        </mxCell>
         <mxCell id="TAnfAXLuEqWQbed71-oy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TAnfAXLuEqWQbed71-oy-1" target="TAnfAXLuEqWQbed71-oy-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -227,16 +236,16 @@
         <mxCell id="jt-Zn96lODomyRDhghk2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="jt-Zn96lODomyRDhghk2-3" target="jt-Zn96lODomyRDhghk2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jt-Zn96lODomyRDhghk2-3" value="Footer" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="jt-Zn96lODomyRDhghk2-3" value="Footer" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="730" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt-Zn96lODomyRDhghk2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="jt-Zn96lODomyRDhghk2-5" target="jt-Zn96lODomyRDhghk2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jt-Zn96lODomyRDhghk2-5" value="Надпись &quot;Kittygram 2023&quot;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="jt-Zn96lODomyRDhghk2-5" value="Надпись &quot;Kittygram 2023&quot;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="960" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jt-Zn96lODomyRDhghk2-6" value="Год в надписи меняется в зависимости от текущего года&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="jt-Zn96lODomyRDhghk2-6" value="Год в надписи меняется в зависимости от текущего года&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1140" y="650" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
